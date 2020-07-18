@@ -3394,12 +3394,6 @@
         }
       }
     },
-    "eslint-config-dahai": {
-      "version": "0.1.3",
-      "resolved": "http://npm.tdahai.com/eslint-config-dahai/-/eslint-config-dahai-0.1.3.tgz",
-      "integrity": "sha512-pPLsfIn7ny/94ufbKPe3odGG7ZQyZ4tsN7lE42Q2UnYJt0ugLgNvOGtx8bMc3DlpuptWZ6h7TDLBCiLoHG+ZmQ==",
-      "dev": true
-    },
     "eslint-friendly-formatter": {
       "version": "4.0.1",
       "resolved": "http://npm.tdahai.com/eslint-friendly-formatter/-/eslint-friendly-formatter-4.0.1.tgz",
@@ -5575,9 +5569,9 @@
       }
     },
     "lodash": {
-      "version": "4.17.15",
-      "resolved": "http://npm.tdahai.com/lodash/-/lodash-4.17.15.tgz",
-      "integrity": "sha1-tEf2ZwoEVbv+7dETku/zMOoJdUg=",
+      "version": "4.17.19",
+      "resolved": "https://registry.npmjs.org/lodash/-/lodash-4.17.19.tgz",
+      "integrity": "sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==",
       "dev": true
     },
     "lodash.memoize": {
