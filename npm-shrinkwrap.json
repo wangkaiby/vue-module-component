@@ -3079,9 +3079,9 @@
       "dev": true
     },
     "elliptic": {
-      "version": "6.5.0",
-      "resolved": "http://npm.tdahai.com/elliptic/-/elliptic-6.5.0.tgz",
-      "integrity": "sha1-K47UyJG33jIA4UQSpbgkjHr1Bco=",
+      "version": "6.5.3",
+      "resolved": "https://registry.npmjs.org/elliptic/-/elliptic-6.5.3.tgz",
+      "integrity": "sha512-IMqzv5wNQf+E6aHeIqATs0tOLeOTwj1QKbRcS3jBbYkl5oLAserA8yJTT7/VyHUYG91PRmPyeQDObKLPpeS4dw==",
       "dev": true,
       "requires": {
         "bn.js": "^4.4.0",
@@ -3393,12 +3393,6 @@
           "dev": true
         }
       }
-    },
-    "eslint-config-dahai": {
-      "version": "0.1.3",
-      "resolved": "http://npm.tdahai.com/eslint-config-dahai/-/eslint-config-dahai-0.1.3.tgz",
-      "integrity": "sha512-pPLsfIn7ny/94ufbKPe3odGG7ZQyZ4tsN7lE42Q2UnYJt0ugLgNvOGtx8bMc3DlpuptWZ6h7TDLBCiLoHG+ZmQ==",
-      "dev": true
     },
     "eslint-friendly-formatter": {
       "version": "4.0.1",
