@@ -3394,12 +3394,6 @@
         }
       }
     },
-    "eslint-config-dahai": {
-      "version": "0.1.3",
-      "resolved": "http://npm.tdahai.com/eslint-config-dahai/-/eslint-config-dahai-0.1.3.tgz",
-      "integrity": "sha512-pPLsfIn7ny/94ufbKPe3odGG7ZQyZ4tsN7lE42Q2UnYJt0ugLgNvOGtx8bMc3DlpuptWZ6h7TDLBCiLoHG+ZmQ==",
-      "dev": true
-    },
     "eslint-friendly-formatter": {
       "version": "4.0.1",
       "resolved": "http://npm.tdahai.com/eslint-friendly-formatter/-/eslint-friendly-formatter-4.0.1.tgz",
@@ -8987,9 +8981,9 @@
       }
     },
     "ssri": {
-      "version": "6.0.1",
-      "resolved": "http://npm.tdahai.com/ssri/-/ssri-6.0.1.tgz",
-      "integrity": "sha1-KjxBso3UW2K2Nnbst0ABJlrp7dg=",
+      "version": "6.0.2",
+      "resolved": "https://registry.npmjs.org/ssri/-/ssri-6.0.2.tgz",
+      "integrity": "sha512-cepbSq/neFK7xB6A50KHN0xHDotYzq58wWCa5LeWqnPrHG8GzfEjO/4O8kpmcGW+oaxkvhEJCWgbgNk4/ZV93Q==",
       "dev": true,
       "requires": {
         "figgy-pudding": "^3.5.1"
