@@ -3394,12 +3394,6 @@
         }
       }
     },
-    "eslint-config-dahai": {
-      "version": "0.1.3",
-      "resolved": "http://npm.tdahai.com/eslint-config-dahai/-/eslint-config-dahai-0.1.3.tgz",
-      "integrity": "sha512-pPLsfIn7ny/94ufbKPe3odGG7ZQyZ4tsN7lE42Q2UnYJt0ugLgNvOGtx8bMc3DlpuptWZ6h7TDLBCiLoHG+ZmQ==",
-      "dev": true
-    },
     "eslint-friendly-formatter": {
       "version": "4.0.1",
       "resolved": "http://npm.tdahai.com/eslint-friendly-formatter/-/eslint-friendly-formatter-4.0.1.tgz",
@@ -4411,13 +4405,10 @@
       }
     },
     "hosted-git-info": {
-      "version": "2.8.2",
-      "resolved": "http://npm.tdahai.com/hosted-git-info/-/hosted-git-info-2.8.2.tgz",
-      "integrity": "sha1-o1w/NVrBJJ8Qk8DCpUKs6IGMFxo=",
-      "dev": true,
-      "requires": {
-        "lru-cache": "^5.1.1"
-      }
+      "version": "2.8.9",
+      "resolved": "https://registry.npmjs.org/hosted-git-info/-/hosted-git-info-2.8.9.tgz",
+      "integrity": "sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==",
+      "dev": true
     },
     "hsl-regex": {
       "version": "1.0.0",
