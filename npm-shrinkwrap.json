@@ -3394,12 +3394,6 @@
         }
       }
     },
-    "eslint-config-dahai": {
-      "version": "0.1.3",
-      "resolved": "http://npm.tdahai.com/eslint-config-dahai/-/eslint-config-dahai-0.1.3.tgz",
-      "integrity": "sha512-pPLsfIn7ny/94ufbKPe3odGG7ZQyZ4tsN7lE42Q2UnYJt0ugLgNvOGtx8bMc3DlpuptWZ6h7TDLBCiLoHG+ZmQ==",
-      "dev": true
-    },
     "eslint-friendly-formatter": {
       "version": "4.0.1",
       "resolved": "http://npm.tdahai.com/eslint-friendly-formatter/-/eslint-friendly-formatter-4.0.1.tgz",
@@ -3906,24 +3900,10 @@
       }
     },
     "follow-redirects": {
-      "version": "1.7.0",
-      "resolved": "http://npm.tdahai.com/follow-redirects/-/follow-redirects-1.7.0.tgz",
-      "integrity": "sha1-SJ68GY3A5/ZBZ70jsDxMGbV4THY=",
-      "dev": true,
-      "requires": {
-        "debug": "^3.2.6"
-      },
-      "dependencies": {
-        "debug": {
-          "version": "3.2.6",
-          "resolved": "http://npm.tdahai.com/debug/-/debug-3.2.6.tgz",
-          "integrity": "sha512-mel+jf7nrtEl5Pn1Qx46zARXKDpBbvzezse7p7LqINmdoIk8PYP5SySaxEmYv6TZ0JyEKA1hsCId6DIhgITtWQ==",
-          "dev": true,
-          "requires": {
-            "ms": "^2.1.1"
-          }
-        }
-      }
+      "version": "1.14.7",
+      "resolved": "https://registry.npmjs.org/follow-redirects/-/follow-redirects-1.14.7.tgz",
+      "integrity": "sha512-+hbxoLbFMbRKDwohX8GkTataGqO6Jb7jGwpAlwgy2bIz25XtRm7KEzJM76R1WiNT5SwZkX4Y75SwBolkpmE7iQ==",
+      "dev": true
     },
     "for-in": {
       "version": "1.0.2",
